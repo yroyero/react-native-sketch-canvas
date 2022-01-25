@@ -26,11 +26,11 @@ Features
 -------------
 Install from `npm` (only support RN >= 0.40)
 ```bash
-npm install @terrylinla/react-native-sketch-canvas --save
+npm install @yroyero/react-native-sketch-canvas --save
 ```
 Link native code
 ```bash
-react-native link @terrylinla/react-native-sketch-canvas
+react-native link @yroyero/react-native-sketch-canvas
 ```
 
 ## Usage
